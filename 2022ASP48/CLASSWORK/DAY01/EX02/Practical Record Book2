@@ -1,0 +1,44 @@
+Date: 12.03.2025
+
+Practical Number:02
+
+Problem Specification:Declare Variables
+
+Implementation: class Ex02
+{
+	public static void main(String args[])
+	{
+		String fac="FAS";
+		int n=3;
+		double p=10.5;
+		int m=5;
+		char w1='&';
+		boolean isTH=true;
+		
+		System.out.println(fac);
+		System.out.println(n);
+		System.out.println(m);
+		System.out.println(w1);
+		System.out.println(isTH);
+		System.out.println("My faculty is "+fac);
+		System.out.println("The result1 is "+(n+m));
+		System.out.println("The result2 is "+(p+m));
+	}
+}
+
+		
+	   
+	   
+Output: 
+FAS
+10
+10.5
+20
+$
+true
+ My faculty is FAS
+ My results is 30
+ My results 2 is 20.5
+
+
+Conclusion: I learnt how to declare and initialize the variables.
