@@ -1,0 +1,34 @@
+Date: 12.03.2025
+Practical Number: 04
+Implementation:  class Ex04
+{
+	public static void main(String args[])
+	{
+		System.out.println("Name : Jihaasika Sivakumaran");
+		System.out.println("Registration Number :2022/ASP/48");
+		System.out.println("Degree Programm : BSc.Computer Science");
+		System.out.println();
+		
+		String Name="Jihaasika Sivakumaran";
+		String RegNo="2022/ASP/48";
+		String Degree="BSc.Compute Science";
+		
+		System.out.println("Full Name :"+Name);
+		System.out.println("Registration Number :"+RegNo);
+		System.out.println("Degree Programm :"+Degree);
+	}
+}
+		
+		
+
+
+Output: 
+ Name: Jihaasika Sivakumaran
+ Registration Number: 2022/ASP/48
+ Degree program:BSc.Compute Science
+
+ Full Name: Jihaasika Sivakumaran
+ Registration Number: 2022/ASP/48
+ Degree Program: BSc.Compute Science
+
+Coclusion: I have learnt the program in java to print String Data type.
