@@ -2,6 +2,8 @@ Date: 12.03.2025
 
 Practical Number: 06
 
+problem specification: Typecasting in java programming.
+
 Implementation: class Ex06
 {
 	public static void main(String args[])
