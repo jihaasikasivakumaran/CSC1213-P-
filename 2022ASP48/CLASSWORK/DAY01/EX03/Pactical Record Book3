@@ -1,5 +1,9 @@
 Date: 12.03.2025
+
 Practical Name: 03
+
+problem specification: how to declare and initialize 
+
 Implementation:    class Ex03
 {
 	public static void main(String args[])
