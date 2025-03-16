@@ -2,6 +2,8 @@ Date: 12.03.2025
 
 Practical Number: 07
 
+problem specification: how to use arithmatic operation in java.
+
 Implementation:   class Ex07
 {
 	public static void main(String[] args)
