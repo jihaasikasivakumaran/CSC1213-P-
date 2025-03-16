@@ -1,5 +1,9 @@
 Date: 12.03.2025
+
 Practical Number: 01
+
+problem specification: How to print "My first programme in java" and "Hello java Developers!!!.
+
 Implementation: class MyFirstJavaProgram{
     public static void main(String[] args)
         {
